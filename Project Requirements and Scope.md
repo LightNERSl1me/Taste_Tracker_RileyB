@@ -13,7 +13,7 @@ Non-functional requirments include: How fast the website is, wether this be load
 Two of the biggest project constraints are time and skill, due to it being a school assignment there is limited time to work on all the functions/parts along with being over the holidays although there is time to complete it some people have work and holidays like myself cutting time short. Along with time you also need the skill to be able to come up with a functioning app by knowing and understanding the code and the ability to put that knowlage onto the computer. 
 
 ## 5. Acceptance Criteria
-###Submission Requirements
+#Submission Requirements#
 Students must submit the following items via Google Classroom:
 1. GitHub Repository Link
 Your GitHub repository must include:
@@ -42,10 +42,6 @@ Upload a single combined PDF/Google Doc/Word containing:
 • Data dictionary
 • Pseudocode / algorithms
 
-Denison College of Secondary Education
-
-Bathurst High Campus
-
 5. ZIP File of Your Project Folder
 Upload a ZIP file containing:
 • All Flask files (templates, static folders, app.py, database file, etc.)
@@ -63,4 +59,4 @@ sources.
 2. Development Journal: Maintain a personal log of progress, obstacles, and solutions to demonstrate
 independent work.
 3. Oral Explanation (if required): Be prepared to explain your code and design choices.
-4. Individual Work: Collaboration is allowed for discussion, but all coding must be done individually.###
+4. Individual Work: Collaboration is allowed for discussion, but all coding must be done individually.
