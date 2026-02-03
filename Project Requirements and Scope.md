@@ -64,34 +64,37 @@ independent work.
 
 ## Storyboard
 
-1. Home Page (All Users)
-git add images/horse_from_memory.png 
-Purpose:
-Features:
-Navigation:
-3. Register Page
-Purpose: Allow new users to create an account.
-Features:
-Navigation:
-4. Login Page
-Purpose:
-Features:
-
-Navigation:
+##1. Home Page (All Users)
+### Purpose:
+### Features:
+### Navigation:
 
-5. Dashboard / User Home (Logged-in Users)
-Purpose:
-Features:
+##2. Register Page
+### Purpose: Allow new users to create an account.
+### Features:
+### Navigation:
 
-Navigation:
-5. Add Review Page
-Purpose: Allow logged-in users to submit reviews.
-Features:
-Navigation:
-6. Edit Review Page
-Purpose:
-Features:
-Navigation:
-7. Offline Page (PWA Feature)
-Purpose:
-Features:
+## 3. Login Page
+### Purpose:
+### Features:
+
+##Navigation:
+
+## 4. Dashboard / User Home (Logged-in Users)
+### Purpose:
+### Features:
+
+### Navigation:
+## 5. Add Review Page
+### Purpose: Allow logged-in users to submit reviews.
+### Features:
+### Navigation:
+
+##6. Edit Review Page
+### Purpose:
+### Features:
+### Navigation:
+
+## 7. Offline Page (PWA Feature)
+### Purpose:
+### Features:
