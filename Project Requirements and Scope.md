@@ -64,12 +64,12 @@ independent work.
 
 ## Storyboard
 
-##1. Home Page (All Users)
+## 1. Home Page (All Users)
 ### Purpose:
 ### Features:
 ### Navigation:
 
-##2. Register Page
+## 2. Register Page
 ### Purpose: Allow new users to create an account.
 ### Features:
 ### Navigation:
@@ -78,7 +78,7 @@ independent work.
 ### Purpose:
 ### Features:
 
-##Navigation:
+## Navigation:
 
 ## 4. Dashboard / User Home (Logged-in Users)
 ### Purpose:
@@ -90,7 +90,7 @@ independent work.
 ### Features:
 ### Navigation:
 
-##6. Edit Review Page
+## 6. Edit Review Page
 ### Purpose:
 ### Features:
 ### Navigation:
