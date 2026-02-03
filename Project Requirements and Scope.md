@@ -13,7 +13,7 @@ Non-functional requirments include: How fast the website is, wether this be load
 Two of the biggest project constraints are time and skill, due to it being a school assignment there is limited time to work on all the functions/parts along with being over the holidays although there is time to complete it some people have work and holidays like myself cutting time short. Along with time you also need the skill to be able to come up with a functioning app by knowing and understanding the code and the ability to put that knowlage onto the computer. 
 
 ## 5. Acceptance Criteria
-#Submission Requirements#
+# Submission Requirements
 Students must submit the following items via Google Classroom:
 1. GitHub Repository Link
 Your GitHub repository must include:
@@ -60,3 +60,38 @@ sources.
 independent work.
 3. Oral Explanation (if required): Be prepared to explain your code and design choices.
 4. Individual Work: Collaboration is allowed for discussion, but all coding must be done individually.
+
+
+## Storyboard
+
+1. Home Page (All Users)
+git add images/horse_from_memory.png 
+Purpose:
+Features:
+Navigation:
+3. Register Page
+Purpose: Allow new users to create an account.
+Features:
+Navigation:
+4. Login Page
+Purpose:
+Features:
+
+Navigation:
+
+5. Dashboard / User Home (Logged-in Users)
+Purpose:
+Features:
+
+Navigation:
+5. Add Review Page
+Purpose: Allow logged-in users to submit reviews.
+Features:
+Navigation:
+6. Edit Review Page
+Purpose:
+Features:
+Navigation:
+7. Offline Page (PWA Feature)
+Purpose:
+Features:
