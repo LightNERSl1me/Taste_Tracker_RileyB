@@ -4,3 +4,6 @@
 11/12/25- Continued on with making my Project Checklist, 
 15/12/25 - updated log + continued with project checklist with teacher           
 16/12/25 - added the project requirments and scope to my taste tracker, will work on it after christmas and new years break
+8/1/26 - 1/2/26 - small minor updates just working on project requirments    
+2/2/26 - finished main part of project requirments + drawn storyboard    
+4/2/26 - working on code today for website, 
