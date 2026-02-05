@@ -101,4 +101,4 @@ independent work.
 ### Features:
 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon47.png "Logo Title Text 1")
+![alt text](https://www.istockphoto.com/photo/funny-african-man-posing-pointing-fingers-at-camera-yellow-background-gm1298255522-391147844)
