@@ -65,40 +65,57 @@ independent work.
 ## Storyboard
 
 ## 1. Home Page (All Users)
-### Purpose:
+### Purpose: 
+- Displaying recent reviews for users, has a log in button on the top of the 
 ### Features:
+-
 ### Navigation:
+-
 
 ## 2. Register Page
 ### Purpose: 
-- Allow new users to create an account to make reviews because you cannot
+- Allow new users to create an account to make reviews because you cannot make a review without an account
 ### Features:
-### Navigation:
+-
 
 ## 3. Login Page
 ### Purpose:
+-
 ### Features:
-
+-
 ## Navigation:
+-
 
 ## 4. Dashboard / User Home (Logged-in Users)
 ### Purpose:
+-
 ### Features:
+-
+### Navigation:
+-
 
-### Navigation:
 ## 5. Add Review Page
-### Purpose: Allow logged-in users to submit reviews.
+### Purpose: 
+-Allow logged-in users to submit reviews.
 ### Features:
+-
 ### Navigation:
+-
 
 ## 6. Edit Review Page
 ### Purpose:
+-
 ### Features:
+-
 ### Navigation:
+-
 
 ## 7. Offline Page (PWA Feature)
+-
 ### Purpose:
+-
 ### Features:
+-
 
 
-![alt text](https://www.istockphoto.com/photo/funny-african-man-posing-pointing-fingers-at-camera-yellow-background-gm1298255522-391147844)
+![alt text]() (this is just for images later on if needed)
