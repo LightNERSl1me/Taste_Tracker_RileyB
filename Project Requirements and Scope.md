@@ -98,3 +98,13 @@ independent work.
 ## 7. Offline Page (PWA Feature)
 ### Purpose:
 ### Features:
+
+
+|                |
+|:--------------:|
+|                |
+|                |
+|                |
+|                |
+|                | 
+|                |
