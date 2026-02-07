@@ -75,8 +75,8 @@ independent work.
 ## 2. Register Page
 ### Purpose: 
 - Allow new users to create an account to make reviews because you cannot make a review without an account
-### Features:
--
+### Features
+- buttons to enter an account
 
 ## 3. Login Page
 ### Purpose:
