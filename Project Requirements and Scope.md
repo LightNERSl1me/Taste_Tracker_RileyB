@@ -76,11 +76,11 @@ independent work.
 ### Purpose: 
 - Allow new users to create an account to make reviews because you cannot make a review without an account
 ### Features
-- buttons to enter an account
+- "labels" to enter an account
 
 ## 3. Login Page
 ### Purpose:
--
+- to be able to get back into your account
 ### Features:
 -
 ## Navigation:
