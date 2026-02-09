@@ -66,11 +66,11 @@ independent work.
 
 ## 1. Home Page (All Users)
 ### Purpose: 
-- displays reviews along with an option to add or edit reviews along with
+- introduction to the review page, displays the name of the website along with multiple ways to view things such as the register, login =, dashboard and review page. Accessible for all users
 ### Features:
--
-### Navigation:
--
+- have the ability to jump between all functions such as reviews, profiles and the dashboard
+### Navigation
+- This page is for all users logged in or no but you cannot got any further without making the accound, this starts off the whole website. On it there are buttons to navigate to other, restircted without an account, areas like reviews.
 
 ## 2. Register Page
 ### Purpose: 
@@ -82,40 +82,28 @@ independent work.
 ### Purpose:
 - to be able to get back into your account because you cannot access the ability to edit or make reviews without an account.
 ### Features:
--
+- a username/email button and a password button that will let you access into your account. Will only work if your password matches up with the data in the database.
 ## Navigation:
--
+- normal screen with three types of buttons on it olust title page and logo. Cannot get past it without an account.
 
 ## 4. Dashboard / User Home (Logged-in Users)
 ### Purpose:
--
+- gives the user options to cycle through like the home page nut for logged in users so you have full access to reviews along with the button to make your own.
 ### Features:
--
-### Navigation:
--
+- shows reviews, option to go to your profile + the quick ability to get to adding or editing a review quickly. (takes you to review page when buttons are clicked)
 
 ## 5. Add Review Page
 ### Purpose: 
--Allow logged-in users to submit reviews.
+-Allow logged-in users to submit reviews on any resteraunt around bathurst that they want.
 ### Features:
--
+- ability to make a review and send it to the review page/dashboard page that will be displayed with others. Code functions to write the review and store it in a database to be shown again on profile.
 ### Navigation:
--
+- Simple page with different section text buttons seperated into catagories for the writers convinience.
 
 ## 6. Edit Review Page
 ### Purpose:
--
+- to be able to edit a review after posting
 ### Features:
--
+- the ability of being able to edit a review already been made, may also have the function that shows its been edited after saving. Database will bring back the code for the review and paste it into its designated spots for editing.
 ### Navigation:
--
-
-## 7. Offline Page (PWA Feature)
--
-### Purpose:
--
-### Features:
--
-
-
-![alt text]() (this is just for images later on if needed)
+- same layout as review, this time with text already in the boxes.
