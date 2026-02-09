@@ -66,7 +66,7 @@ independent work.
 
 ## 1. Home Page (All Users)
 ### Purpose: 
-- Displaying recent reviews for users, has a log in button on the top of the 
+- displays reviews along with an option to add or edit reviews along with
 ### Features:
 -
 ### Navigation:
@@ -76,11 +76,11 @@ independent work.
 ### Purpose: 
 - Allow new users to create an account to make reviews because you cannot make a review without an account
 ### Features
-- "labels" to enter an account
+- "labels" to enter an account, ability to create a username and sign up with email but if your username already exists you have remake a new one. This page is pretty bland with features along with the log in page but they are some of the most crutial parts to get into the website.
 
 ## 3. Login Page
 ### Purpose:
-- to be able to get back into your account
+- to be able to get back into your account because you cannot access the ability to edit or make reviews without an account.
 ### Features:
 -
 ## Navigation:
