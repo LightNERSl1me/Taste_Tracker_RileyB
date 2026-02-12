@@ -80,7 +80,4 @@ The database side of the code. These two things from the assignment sheet seemed
 -    Users arent able to just get passed the log in page by spamming numbers and letters the database now looks out for actual names and passwords.
 
 ### Challanges    
--    
-
-### Next Step/s    
- 
+-    Broken code + database curruption
