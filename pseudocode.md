@@ -17,7 +17,7 @@
 ### App.js service worker pseudocode:
       
       BEGIN
-            IF service worker in vavigator:
+            IF service worker in activator:
                   RUN service worker file
                         IF service worker OUTPUT workes:
                               continue running
